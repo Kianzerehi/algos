@@ -51,3 +51,8 @@ var isPalindrome = function (x) {
   }
 };
 //Turned X into a string and reversed it in a variable. Tested to see if it is equal to x (as a string)
+
+//To Lower Case
+let toLowerCase = function (s) {
+  return s.toLowerCase();
+}; //Easiest problem I've done
