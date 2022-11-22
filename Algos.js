@@ -85,3 +85,8 @@ var lengthOfLastWord = function (s) {
   return removedEndSpace[lastWord].length;
 };
 //I removed spaces at the end of the string and split it into an array. I found the zero based index of the last item in any array and found the length of it
+//Reverse String
+var reverseString = function (s) {
+  return s.reverse("");
+};
+//Self explanatory
